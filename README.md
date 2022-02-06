@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benm-da
-- 👀 I’m interested in Smart Contracts, AI, Web & Service Automation
+- 👀 I’m interested in Smart Contracts, Technical Support, AI, Web & Service Automation
 - 🌱 I’m currently learning [Daml](https://daml.com/), [Cucumber](https://cucumber.io/), [Selectors Hub](https://selectorshub.com/) and [GCloud](https://cloud.google.com/)
 - 📫 How to reach me ... write a note, attach to a Pigeon, cross fingers
 
