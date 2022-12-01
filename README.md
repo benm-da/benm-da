@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benm-da
 - 👀 I’m interested in Smart Contracts, Technical Support, AI, Web & Service Automation
-- Currently learning Selenium and RPA-for-Python while using PyCharm Professional
+- Currently learning Selenium and RPA-for-Python while using Jetbrains Professional
 
 <!---
 benm-da/benm-da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
