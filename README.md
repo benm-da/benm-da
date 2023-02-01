@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @benm-da
 - 👀 I’m interested in Smart Contracts, Technical Support, AI, Web & Service Automation
-- Actively learning Headless Browser testing using Selenium and RPA-for-Python
 - Engaging with the AWS ecosphere for Cloud support of distributed applications
 - Upskilling Systems Administration skills and Google Workspace integrations using Python3
+- Looking at [Ammonite IO](https://ammonite.io/) as a replacement for Bash in Automations and Tooling
 
 <!---
 benm-da/benm-da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
