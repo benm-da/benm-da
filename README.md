@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benm-da
 - 👀 I’m interested in Smart Contracts, Technical Support, AI, Web & Service Automation
-- Engaging with the AWS ecosphere for Cloud support of distributed applications
+- Engaging with AWS & Azure ecosphere for Cloud support of distributed applications
 - Upskilling Systems Administration skills and Google Workspace integrations using Python3
 - Looking at [Ammonite IO](https://ammonite.io/) as a replacement for Bash in Automations and Tooling
 
